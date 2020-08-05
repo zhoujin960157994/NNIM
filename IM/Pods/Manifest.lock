@@ -1,0 +1,24 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - Protobuf (3.11.4)
+  - ReactiveObjC (3.1.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - Protobuf (= 3.11.4)
+  - ReactiveObjC
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - Protobuf
+    - ReactiveObjC
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  Protobuf: 176220c526ad8bd09ab1fb40a978eac3fef665f7
+  ReactiveObjC: 011caa393aa0383245f2dcf9bf02e86b80b36040
+
+PODFILE CHECKSUM: 6cfeaf8a884a28f759a7a30245eb19d8942a9704
+
+COCOAPODS: 1.9.1
